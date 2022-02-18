@@ -1,0 +1,49 @@
+c:\users\princehalo\documents\visual studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe.config
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Properties.Resources.resources
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Documents\Visual Studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\documents\visual studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Dashboard.resources
+C:\Users\princehalo\documents\visual studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Main.resources
+C:\Users\princehalo\documents\visual studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.FDeskMenu.resources
+C:\Users\princehalo\documents\visual studio 2015\Projects\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe.config
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.AdminMenu.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Appointments.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.CashUnit.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Dashboard.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.DptMenu.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.FDeskMenu.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.hmoNhisAcct.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Main.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.NewPatient.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.PatientReg.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.PatientsMenu.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Properties.Resources.resources
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\Desktop\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe.config
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.exe
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\bin\Debug\EDI Hospital Management System.pdb
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.AdminMenu.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Appointments.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.CashUnit.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Dashboard.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.DptMenu.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.FDeskMenu.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.hmoNhisAcct.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Main.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.NewPatient.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.PatientsMenu.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.Properties.Resources.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI_Hospital_Management_System.PatientDetails.resources
+C:\Users\princehalo\Desktop\Latest\EDI Hospital Management System\EDI Hospital Management System\obj\Debug\EDI Hospital Management System.csprojResolveAssemblyReference.cache
